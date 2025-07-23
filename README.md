@@ -4,18 +4,21 @@ Phantom Draft is a micro web development studio dedicated to crafting dark, atmo
 
 ### Our Services
 
-- **Architecting end-to-end web solutions**
+- **Architecting end-to-end web solutions**   
   Responsive interfaces with Vanilla JS, React, and PHP; custom back-end services; RESTful API integrations; Docker- and CI/CD-powered deployments.
-- **Internal Tools & Workflow Automation**
+
+- **Internal Tools & Workflow Automation**   
   Building internal tools to streamline content workflows and ensure scalability and performance.
-- **Technical Writing & Consulting**
+
+- **Technical Writing & Consulting**   
   In-depth articles on web technologies, SEO, layout, and horror/history topics; game-dev advisory and narrative design.
-- **WordPress Themes & Plugins**
+
+- **WordPress Themes & Plugins**   
   Custom Full Site Editing & Classic theme development, dynamic block and shortcode implementation, plus bespoke plugin creation.
 
 ---
 
-## Personal Pet Projects
+## Pet Projects
 
 | Project         | Site                                                                         | Repository                                                                                     |
 |-----------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
@@ -23,9 +26,7 @@ Phantom Draft is a micro web development studio dedicated to crafting dark, atmo
 | Stories         | [https://phantom-draft.com/stories/](https://phantom-draft.com/stories/)     | [phantomdraft.github.io](https://github.com/PhantomDraft/phantomdraft.github.io)               |
 | Northern Myths  | [https://northernmyths.phantom-draft.com/](https://northernmyths.phantom-draft.com/) | [northernmyths.github.io](https://github.com/PhantomDraft/northernmyths.github.io)             |
 
----
-
-## Latest Articles
+### Latest Articles
 
 |  |  |
 |---|---|
@@ -35,29 +36,39 @@ Phantom Draft is a micro web development studio dedicated to crafting dark, atmo
 
 ---
 
-## Technical Work Examples
+## Commercial Projects
 
-- **[filter-widget-cartum](https://github.com/PhantomDraft/filter-widget-cartum)**
+- **[filter-widget-cartum](https://github.com/PhantomDraft/filter-widget-cartum)**   
   A JavaScript widget for rendering dynamic catalog filters on Cartum.io and Horoshop e-commerce platforms.
 
-- **[subscription-manager-wp](https://github.com/PhantomDraft/subscription-manager-wp)**
+- **[embo-theme](https://github.com/bogdan2143/embo-theme)**   
+  A Full Site Editing (FSE) WordPress theme built on the Bulma framework, featuring an object-oriented codebase with dynamic blocks and shortcodes fully managed via the block editor.
+
+---
+
+## Volunteer & Community Projects
+
+- **[subscription-manager-wp](https://github.com/PhantomDraft/subscription-manager-wp)**   
   Automates WooCommerce subscription management: assigns roles, calculates periods (1 copy = 1 month), auto-renews subscriptions, and provides admin pages for subscriber oversight.
 
-- **[country-blocker-wp](https://github.com/PhantomDraft/country-blocker-wp)**
+- **[country-blocker-wp](https://github.com/PhantomDraft/country-blocker-wp)**   
   Restricts site or content access by visitor country: full-site blocking, selective content hiding by ID/slug, and custom redirects/messages.
 
-- **[content-protector-wp](https://github.com/PhantomDraft/content-protector-wp)**
+- **[content-protector-wp](https://github.com/PhantomDraft/content-protector-wp)**   
   Protects posts, pages, WooCommerce products, bbPress forums, categories, and tags with global or per-item passwords and role-based locks.
 
-- **[group-hide-site-wp](https://github.com/PhantomDraft/group-hide-site-wp)**
+- **[group-hide-site-wp](https://github.com/PhantomDraft/group-hide-site-wp)**   
   Flexible content hiding: complete site redirects, role-based access, and individual content hiding by ID/slug with custom group settings.
-
-- **[embo-theme](https://github.com/bogdan2143/embo-theme)**
-  A Full Site Editing (FSE) WordPress theme built on the Bulma framework, featuring an object-oriented codebase with dynamic blocks and shortcodes fully managed via the block editor.
 
 ---
 
 ## Legal Information
 
-Commercial cooperation via FOP Oksana Dubynetska.
+Commercial cooperation via @FOP-Oksana-Dubinetska (FOP Oksana Dubynetska).
+
 Original vision and developer — [@pan-canon](https://github.com/pan-canon).
+
+### Follow Us
+
+| [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/horrorprom) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@spirits-show) |
+|:-------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
