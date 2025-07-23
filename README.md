@@ -36,7 +36,7 @@ Phantom Draft is a micro web development studio dedicated to crafting dark, atmo
 
 ---
 
-## Commercial Projects
+## Commercial Projects 2025
 
 - **[filter-widget-cartum](https://github.com/PhantomDraft/filter-widget-cartum)**   
   A JavaScript widget for rendering dynamic catalog filters on Cartum.io and Horoshop e-commerce platforms.
