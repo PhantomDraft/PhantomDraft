@@ -48,8 +48,15 @@ Phantom Draft is a micro web development studio dedicated to crafting dark, atmo
 
 ## Volunteer & Community Projects
 
+<details open>
+<summary>2025</summary>
+
 - **[safe-blind-zones-live-tester](https://github.com/PhantomDraft/safe-blind-zones-live-tester)**   
   The web app visualizes safe/blind zones for mobile interfaces.
+</details>
+
+<details>
+<summary>Old</summary>
 
 - **[subscription-manager-wp](https://github.com/PhantomDraft/subscription-manager-wp)**   
   Automates WooCommerce subscription management: assigns roles, calculates periods (1 copy = 1 month), auto-renews subscriptions, and provides admin pages for subscriber oversight.
@@ -62,6 +69,7 @@ Phantom Draft is a micro web development studio dedicated to crafting dark, atmo
 
 - **[group-hide-site-wp](https://github.com/PhantomDraft/group-hide-site-wp)**   
   Flexible content hiding: complete site redirects, role-based access, and individual content hiding by ID/slug with custom group settings.
+</details>
 
 ---
 
