@@ -36,13 +36,16 @@ Phantom Draft is a micro web development studio dedicated to crafting dark, atmo
 
 ---
 
-## Commercial Projects 2025
+## Commercial Projects
 
+<details open>
+<summary>2025</summary>
 - **[filter-widget-cartum](https://github.com/PhantomDraft/filter-widget-cartum)**   
   A JavaScript widget for rendering dynamic catalog filters on Cartum.io and Horoshop e-commerce platforms.
 
 - **[embo-theme](https://github.com/bogdan2143/embo-theme)**   
   A Full Site Editing (FSE) WordPress theme built on the Bulma framework, featuring an object-oriented codebase with dynamic blocks and shortcodes fully managed via the block editor.
+</details>
 
 ---
 
