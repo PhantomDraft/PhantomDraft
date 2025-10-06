@@ -18,24 +18,6 @@ Phantom Draft is a micro web development studio dedicated to crafting dark, atmo
 
 ---
 
-## Pet Projects
-
-| Project         | Site                                                                         | Repository                                                                                     |
-|-----------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| Main Site       | [https://phantom-draft.com/](https://phantom-draft.com/)                     | [phantomdraft.github.io](https://github.com/PhantomDraft/phantomdraft.github.io)               |
-| Stories         | [https://phantom-draft.com/stories/](https://phantom-draft.com/stories/)     | [phantomdraft.github.io](https://github.com/PhantomDraft/phantomdraft.github.io)               |
-| Northern Myths  | [https://northernmyths.phantom-draft.com/](https://northernmyths.phantom-draft.com/) | [northernmyths.github.io](https://github.com/PhantomDraft/northernmyths.github.io)             |
-
-### Latest Articles
-
-|  |  |
-|---|---|
-| [<img src="https://phantom-draft.com/images/articles/horror-about-drugs/cover.webp" alt="Pandora’s Toxin" width="50" height="50" />](https://phantom-draft.com/articles/pandoras-toxin/) | [**Pandora’s Toxin: Horrors About Drugs**](https://phantom-draft.com/articles/pandoras-toxin/) |
-| [<img src="https://phantom-draft.com/images/articles/the-idea-of-apocalypse-in-horror-films-particularly-slashers-films/cover.webp" alt="The Idea of Apocalypse" width="50" height="50" />](https://phantom-draft.com/articles/the-idea-of-apocalypse-in-horror-films-particularly-slashers-films/) | [**The Idea of Apocalypse in Horror Films, Particularly Slashers Films**](https://phantom-draft.com/articles/the-idea-of-apocalypse-in-horror-films-particularly-slashers-films/) |
-| [<img src="https://phantom-draft.com/images/stories/No.1/splash-page/cover.webp" alt="Prompts for the Spirits Show no.1" width="50" height="50" />](https://phantom-draft.com/articles/prompts-and-references-for-the-first-episode-of-the-spirits-show/) | [**Prompts for the Spirits Show no.1**](https://phantom-draft.com/articles/prompts-and-references-for-the-first-episode-of-the-spirits-show/) |
-
----
-
 ## Commercial Projects
 
 <details open>
@@ -77,6 +59,24 @@ Phantom Draft is a micro web development studio dedicated to crafting dark, atmo
   Flexible content hiding: complete site redirects, role-based access, and individual content hiding by ID/slug with custom group settings.
 
 </details>
+
+---
+
+## Pet Projects
+
+| Project         | Site                                                                         | Repository                                                                                     |
+|-----------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| Main Site       | [https://phantom-draft.com/](https://phantom-draft.com/)                     | [phantomdraft.github.io](https://github.com/PhantomDraft/phantomdraft.github.io)               |
+| Stories         | [https://phantom-draft.com/stories/](https://phantom-draft.com/stories/)     | [phantomdraft.github.io](https://github.com/PhantomDraft/phantomdraft.github.io)               |
+| Northern Myths  | [https://northernmyths.phantom-draft.com/](https://northernmyths.phantom-draft.com/) | [northernmyths.github.io](https://github.com/PhantomDraft/northernmyths.github.io)             |
+
+### Latest Articles
+
+|  |  |
+|---|---|
+| [<img src="https://phantom-draft.com/images/articles/horror-about-drugs/cover.webp" alt="Pandora’s Toxin" width="50" height="50" />](https://phantom-draft.com/articles/pandoras-toxin/) | [**Pandora’s Toxin: Horrors About Drugs**](https://phantom-draft.com/articles/pandoras-toxin/) |
+| [<img src="https://phantom-draft.com/images/articles/the-idea-of-apocalypse-in-horror-films-particularly-slashers-films/cover.webp" alt="The Idea of Apocalypse" width="50" height="50" />](https://phantom-draft.com/articles/the-idea-of-apocalypse-in-horror-films-particularly-slashers-films/) | [**The Idea of Apocalypse in Horror Films, Particularly Slashers Films**](https://phantom-draft.com/articles/the-idea-of-apocalypse-in-horror-films-particularly-slashers-films/) |
+| [<img src="https://phantom-draft.com/images/stories/No.1/splash-page/cover.webp" alt="Prompts for the Spirits Show no.1" width="50" height="50" />](https://phantom-draft.com/articles/prompts-and-references-for-the-first-episode-of-the-spirits-show/) | [**Prompts for the Spirits Show no.1**](https://phantom-draft.com/articles/prompts-and-references-for-the-first-episode-of-the-spirits-show/) |
 
 ---
 
