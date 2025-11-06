@@ -37,7 +37,10 @@ Phantom Draft is a micro web development studio dedicated to crafting dark, atmo
 <details open>
 <summary>2025</summary>
 
-- **[safe-blind-zones-live-tester](https://github.com/PhantomDraft/safe-blind-zones-live-tester)**   
+- **[PsyFramework](https://github.com/Zhovten-Games/PsyFramework)**   
+  PsyFramework is a standards-aligned platform for psychiatric assessment and research. It unifies surveys across ICD-10/11 and DSM-5-TR, with harmonized items, crosswalks, configurable batteries, longitudinal tracking, and exportable research-grade datasets.
+
+- **[safe-blind-zones-live-tester](https://github.com/Zhovten-Games/safe-blind-zones-live-tester)**   
   The web app visualizes safe/blind zones for mobile interfaces.
 </details>
 
